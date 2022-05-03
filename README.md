@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aleisgar
 - 👀 I’m interested in hikking, environment, reading and learning about different issues.
 - 🌱 I’m currently learning to become a Full Stack Developer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: aleisgar@gmail.com / https://www.linkedin.com/in/alicia-garrote-53a466a7/
 
 <!---
